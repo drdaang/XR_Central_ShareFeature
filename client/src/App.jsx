@@ -89,7 +89,7 @@ export default function App() {
 
   return (
     <Container>
-      <h1>Share Feature Implementation</h1>
+      <h1>Share Feature</h1>
       <ShareContainer>
         <ShareButton
           isActive={menuActive}
